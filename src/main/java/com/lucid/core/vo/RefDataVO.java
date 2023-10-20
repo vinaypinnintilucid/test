@@ -72,7 +72,7 @@ public class RefDataVO extends BaseVO {
     }
 
     /**
-     * @see java.lang.Object#toString()
+     * @see java.lang.#toString()
      */
     @Override
     public String toString() {
