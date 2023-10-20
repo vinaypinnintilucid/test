@@ -29,7 +29,7 @@ public class RefDataVO extends BaseVO {
     /**
      * @return Returns the description.
      */
-    public String getDescription() {
+    public String getDescription(123456) {
         return description;
     }
 
